@@ -25,3 +25,8 @@
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724661-0b13931f-c4ce-4557-9645-aa4d05e5a286.png"/>
 <img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724664-7c0b4f74-bd90-45a8-bd33-149f13f9bd6a.png"/>
 </div>
+
++ **동영상**
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=RY-BMeURcVA"><img width="50%" height="50%" src="https://user-images.githubusercontent.com/60832219/208252669-87c38259-27ec-4153-9ac4-560d40d64846.png"/></a>
+</div>
