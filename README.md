@@ -15,3 +15,13 @@
   
 + **프로젝트 평가**
   + 스스로 열심히 공부했다는 느낌을 받을 수 있어서 만족스러운 프로젝트였다. 개발하면서 내가 알고 있는 프로그래밍 지식을 다른 사람들에게 알려 줄 수 있었기 때문이다. 전시회에서는 2위의 좋은 성적을 거두었다. 그러나, 몇몇의 유저들은 다양한 요소들이 포함되어 있어 중독성은 있으나, 조작법이 굉장히 어렵고 나중에는 한 방에 죽어버려서 도망치기에 급급한 게임이라고 하였다. 그도 그럴 것이 기능 개발에만 열과 성을 다했을 뿐, 기획을 크게 신경을 쓰지 않았다보니 한계가 드러나 버린 것이다. 구체적인 기획이 더 중요할 수도 있다는 것을 배웠다.
+
+- **스크린샷**
+<div align="center"> 
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724636-938072b4-9c87-4932-8e19-d6f82d0d9e8f.png"/>
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724647-a81382e9-90d1-4cff-aa5f-703bc3ac6c6f.png"/>
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724650-f8b30a68-e452-4d24-ba20-bf54c023cb4d.png"/>
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724655-5639bf53-155f-43b4-b27c-f9a3dd00a96b.png"/>
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724661-0b13931f-c4ce-4557-9645-aa4d05e5a286.png"/>
+<img width="45%" height="45%" src="https://user-images.githubusercontent.com/60832219/208724664-7c0b4f74-bd90-45a8-bd33-149f13f9bd6a.png"/>
+</div>
